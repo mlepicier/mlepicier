@@ -8,7 +8,7 @@
     <li>⚽ Soccer - Playing indoor pick-up 5 vs 5
     <li>🤸 Calisthenics - Outdoor or at the gym
     <li>🧀 Cheese - Best food on Earth
-    <li>📚 Reading - Self help and psychology books<br/><br/>
+    <li>📚 Reading - Self help and psychology books<br/>
 
 <h3>Connect with Me:</h3>
 <li><a href="https://www.linkedin.com/in/mlepicier/">LinkedIn</a>
