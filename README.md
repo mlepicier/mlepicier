@@ -12,6 +12,6 @@
 
 <h3>Connect with Me:</h3>
 <li><a href="https://www.linkedin.com/in/mlepicier/">LinkedIn</a>
-<li><a href="mailto:mlepicier.msc2022@ivey.ca">E-Mail</a> <br/><br/> 
+<li><a href="mailto:mlepicier.msc2022@ivey.ca">E-Mail</a> <br/>
 
 ***
