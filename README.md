@@ -2,7 +2,9 @@
 <br/>
 
 <h2 align="center"> Welcome to my GitHub Portfolio <br/></h2><br/>
-<p align="justify"><i> I am a data scientist who transform data into value and insights by using variety of tools from descriptive and predictive analytics, all the way to optimization and prescriptive analytics to improve results, better decision and kill costs. Feel free to contact me if you have any questions about the projects shared in this portfolio or to check out my personal <a href="https://mlepicier.github.io">website</a> if you want to know more about me. </i><p>
+
+<p align="justify">As a <b>data scientist</b>, I strive to transform data into valuable insights. I use variety of methods from descriptive and predictive analytics, all the way to optimization and prescriptive analytics to drive business outcomes, better decision-making and reduce costs. Feel free to download my <a href="https://mlepicier.github.io/assets/docs/resume_mlepicier.pdf" target=”_blank”>resume</a> or visit my <a href="https://mlepicier.github.io">website</a> to know more about my skills and experience.</p>
+						
 
 <h3>Also, outside of work, I enjoy:</h3>
     <li>⚽ Soccer - Playing indoor pick-up 5 vs 5
